@@ -1,0 +1,13 @@
+.content {
+   position: relative;
+   flex: 1;
+   padding-top: 3%;
+   padding-left: 1%;
+}
+
+.wrapper {
+   width: 97%;
+   height: 97%;
+   border-radius: 45px;
+   background-color: #ffffff;
+}
