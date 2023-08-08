@@ -42,7 +42,7 @@ const Navbar = () => {
                </div>
             </div>
             <div className={style.logout}>
-               <LogOut size={35} color="#746E6E"/>
+               <LogOut size={35} color="#ffffff"/>
             </div>    
          </div>
       </div>
